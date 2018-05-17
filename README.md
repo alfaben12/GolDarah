@@ -25,5 +25,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # LOOK
-
-https://raw.githubusercontent.com/ybreza/GolDarah/master/1.JPG
+![LOOK LIKE](https://raw.githubusercontent.com/ybreza/GolDarah/master/img/1.png)
