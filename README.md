@@ -7,7 +7,6 @@ Aplikasi ini merupakan sebuah aplikasi artificial intelligence yang berguna untu
 ![LOOK LIKE](https://raw.githubusercontent.com/ybreza/GolDarah/master/img/1.png)
 
 # Installing
-A step by step series of examples that tell you have to get a development env running
 
 ```
 Just running on Apache13
