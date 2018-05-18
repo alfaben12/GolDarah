@@ -1,5 +1,7 @@
 # Gol Darah
 
+![LOGOS](https://user-images.githubusercontent.com/35470865/40240381-a517c83a-5ae2-11e8-84f5-e45ce09f56bf.png)
+
 Aplikasi ini merupakan sebuah aplikasi artificial intelligence yang berguna untuk Mendendeteksi golongan darah menurut sifat dan karakter manusia, sifat dari aplikasi ini adalah quetioner yang mana setiap langkah yang terjadi berasal dari pertanyaan-pertanyaan yang telah di input kedalam sistem sebelumnya. 
 
 ![LOOK LIKE](https://raw.githubusercontent.com/ybreza/GolDarah/master/img/1.png)
