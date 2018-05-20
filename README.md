@@ -16,6 +16,10 @@ Just running on Apache
 
 Please read [CONTRIBUTING.md](https://github.com/ybreza/GolDarah/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
+# Version
+
+Current version is 1.0 (beta) and still development.
+
 # License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
