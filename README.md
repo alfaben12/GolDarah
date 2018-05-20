@@ -9,7 +9,7 @@ Aplikasi ini merupakan sebuah aplikasi artificial intelligence yang berguna untu
 # Installing
 
 ```
-Just running on Apache13
+Just running on Apache
 ```
 
 # Contributing
